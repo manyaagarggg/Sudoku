@@ -309,7 +309,7 @@ nav {
 
 .number {
     height: var(--sudoku-cell-size);
-    border-radius: var(--border-radius);
+    border-radius: 50%;
     background-color: var(--bg-main);
     color: var(--color-txt);
     display: grid;
